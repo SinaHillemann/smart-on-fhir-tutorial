@@ -10,6 +10,9 @@ ILU<3
 
 APP-ID: 928aa6ce-b8e9-47bc-8e10-fecefe661d65
 
+https://sinahillemann.github.io/smart-on-fhir-tutorial/example-smart-app/launch.html
+https://sinahillemann.github.io/smart-on-fhir-tutorial/example-smart-app/
+
 # 2. Table of Contents
 
 - [1. Overview](#1-overview)
